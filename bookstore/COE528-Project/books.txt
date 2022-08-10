@@ -1,0 +1,8 @@
+Book 3 | 200.0
+The witcher | 15.0
+Book 1 | 50.0
+Book1 | 10.0
+Book 4 | 500.0
+Book 2 | 100.0
+-9+0 | 10.0
+flower | 80.0
